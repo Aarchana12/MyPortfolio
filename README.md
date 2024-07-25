@@ -33,7 +33,7 @@ The design of this website is inspired by modern, minimalist aesthetics with a f
 
 ## How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/username/portfolio-website.git`
+1. **Clone the Repository**: `git clone https://github.com/Aarchana12/MyPortfolio.git`
 2. **Open the Index File**: Navigate to the directory and open `index.html` in your web browser.
 3. **Explore**: Navigate through the pages to learn more about my work and get in touch via the contact form.
 
